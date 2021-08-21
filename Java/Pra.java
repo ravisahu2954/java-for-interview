@@ -1,10 +1,10 @@
 
 
-public class Pranjal {
+public class Pra {
 	
 	public static void main(String[] args) {
 	//	F o = new F();
-		Pranjal o = new Pranjal();
+		Pran o = new Pra();
 		o.x=5;
 	//	F t=o;
 	//	t.x=9;
