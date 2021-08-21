@@ -11,11 +11,11 @@ public class Example2 {
 		else
 			System.out.print("not same");
 		
-		Integer ob=20;
+		Integer ob=10;
 		if(ob==obj)
 			  System.out.print("same");  
-			else
-				System.out.print("not same");//output= not same(because object are diffrent )
+		else
+		         System.out.print("not same");//output= not same(because object are diffrent )
 			
 		
 		class X{ int t;}
