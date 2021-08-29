@@ -8,7 +8,7 @@ public class Main
 	{ 
 		String str = "Hey   this   is Ram"; 
 		String [] words = str.split(" "); 
-        	System.out.println(words.length);       
+        	System.out.println(words.length);  //8 (4 word+ 4 empty space)     
 		for (int i=0 ;i<words.length;i++) 
 		{
         	if(!words[i].isEmpty())	
@@ -17,3 +17,12 @@ public class Main
 		
 		    
 } 
+//*********//
+output::  
+
+8
+Hey
+this
+is
+Ram	
+//********//	
