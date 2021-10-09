@@ -1,7 +1,7 @@
 there are two acess specifiers for outerclass java classes(not inner class)
 1.public 2.default
 indentifiers can not use java keywords
-you can use multyple semicolon after the any statement it cannot give eroor
+you can use multiple semicolon after the any statement it cannot give eroor
 example:
 int a;;;;
 System.out.println("hel");;;;
