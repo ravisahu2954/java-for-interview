@@ -1,0 +1,4 @@
+What is Stack Memory?
+Stack in java is a section of memory which contains methods, local variables, and reference variables. Stack memory is always referenced in Last-In-First-Out order. Local variables are created in the stack.
+What is Heap Memory?
+Heap is a section of memory which contains Objects and may also contain reference variables. Instance variables are created in the heap
