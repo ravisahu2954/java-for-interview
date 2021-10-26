@@ -1,4 +1,4 @@
-package variable_practice;
+
 //primitive and non primitive variable
 class Exam{
 	int x ;
