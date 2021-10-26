@@ -8,6 +8,7 @@ public class Example5 {
 		 int f=10;
 		double t=5.6;
 		Double bOb = Double.valueOf(t); //bob=5.6
+		Double bt = Double.valueOf(f); //10.0
 		Integer pt = Integer.valueOf(f);// pt =10
 		Integer st = new Integer(5);    //st=5
 		System.out.println(pt+bOb+" "+pt+st); // pt+bob=15.6
