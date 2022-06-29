@@ -12,6 +12,8 @@ public class Example5 {
 		Integer pt = Integer.valueOf(f);// pt =10
 		Integer st = new Integer(5);    //st=5
 		System.out.println(pt+bOb+" "+pt+st); // pt+bob=15.6
+		 double t = 5.0;
+                 Double f = t; //it is also work
 		
 		 // creates objects of wrapper class
 	        Integer aObj = Integer.valueOf(23);
